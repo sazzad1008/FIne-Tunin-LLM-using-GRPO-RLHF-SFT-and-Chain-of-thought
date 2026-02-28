@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+trl
+latex2sympy2-extended
+math-verify
+sympy
+sentencepiece
+accelerate
